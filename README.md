@@ -2,7 +2,7 @@
 
 Following dibsi-rnaseq http://dibsi-rnaseq.readthedocs.io/en/latest/toc.html
 
-Trim reads for adapters and quality in trimmomatic using `trim.sh`
+Trim reads for adapters and quality in trimmomatic using `trimo.sh`
 
 do digitalnormalization in khmer version whatever in `diginorm.sh`
 
