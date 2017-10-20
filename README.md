@@ -16,6 +16,9 @@ Cluster reads by similarity in cdhit using `cdhit_est.sh`
 
 Do something that may be wrong by filtering for the longest transcript using a script that is only in the older versions of trinity
 
+transdecoder
 
+prior to orthofinder change fasta header name with `awk '/^>/{print ">AMO" ++i; next}{print}' < longest_est_M27.trandecoder.pep > longest_est_M27.transdecoder.pep.name.fasta`
 
+Potion
 
