@@ -20,5 +20,5 @@ transdecoder
 
 prior to orthofinder change fasta header name with `awk '/^>/{print ">AMO" ++i; next}{print}' < longest_est_M27.trandecoder.pep > longest_est_M27.transdecoder.pep.name.fasta`
 
-Potion
+Evaluate assembly in transrate and BUSCO
 
